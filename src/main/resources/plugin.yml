@@ -1,0 +1,8 @@
+name: SwiftCodeAPI
+version: 1.0
+main: net.swiftcodeapi.SwiftCodeAPIPlugin
+api-version: 1.21
+authors: [TBnasa]
+softdepend: [Vault]
+description: SwiftCode API - 300+ Utility Methods for Rapid Minecraft Development
+website: www.swiftcode.net
